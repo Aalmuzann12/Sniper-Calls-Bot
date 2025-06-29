@@ -21,7 +21,7 @@
 
 **[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL!](https://t.me/snipercallshelp)**
 
-**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/snipercallsshelp)**
+**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/DriftXSupp)**
 
 To get started with Sniper Calls Bot, follow these steps:
 
